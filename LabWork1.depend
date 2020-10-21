@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603288258 source:d:\project c++\labwork1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+
