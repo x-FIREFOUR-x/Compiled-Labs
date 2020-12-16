@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608123189 source:d:\project c++\labworks\lab8\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<ctime>
+
