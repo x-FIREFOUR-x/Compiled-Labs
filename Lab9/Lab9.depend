@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608720313 source:d:\project c++\labworks\lab9\head.cpp
+	"head.h"
+	<string>
+	<iostream>
+
+1608675629 d:\project c++\labworks\lab9\head.h
+	<string>
+
+1608720435 source:d:\project c++\labworks\lab9\main.cpp
+	<iostream>
+	<string>
+	"head.h"
+
